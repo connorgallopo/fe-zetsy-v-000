@@ -50,7 +50,6 @@ p {
 }
 footer {
 	position: absolute;
-	bottom: 0;
 	right: 55px;
 	color: rgb(85,85,85);
 	font-size: .5em;
