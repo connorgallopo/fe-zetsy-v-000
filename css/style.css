@@ -51,6 +51,7 @@ p {
 footer {
 	position: absolute;
 	right: 55px;
+	bottom: 0px;
 	color: rgb(85,85,85);
 	font-size: .5em;
 }
