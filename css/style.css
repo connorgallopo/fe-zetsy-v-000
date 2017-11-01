@@ -49,5 +49,7 @@ p {
 	margin: 1px;
 }
 footer {
-	text-align: right;
+	text-align: right
+	color: rgb(85,85,85);
+	font-size: .75em;
 }
