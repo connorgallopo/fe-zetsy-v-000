@@ -43,6 +43,9 @@ p {
 	font-family: 'Times-New-Roman', serif;
 	color: rgb(85,85,85);
 }
+p link {
+	font-family: 'Times-New-Roman', serif;
+}
 
 #press img {
 	border: 5px rgb(204,204,204) solid;
