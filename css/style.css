@@ -49,9 +49,5 @@ p {
 	margin: 1px;
 }
 footer {
-	position: relative;
-	right: 0px;
-	bottom: 0px;
-	color: rgb(85,85,85);
-	font-size: .75em;
+	text-align: right;
 }
